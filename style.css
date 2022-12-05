@@ -7,7 +7,9 @@
 
 body{
 
-    background-color: rgb(150, 189, 105);
+    background: url(joguindino.png);
+    background-repeat: no-repeat;
+    
 }
 @font-face {
     font-family: 'delinda';
